@@ -111,7 +111,7 @@ export default function Album() {
               spacing={2}
               justifyContent="center"
             >
-              <Button href='mailto://thecritswastaken@gmail.com?subject=Contact' variant="contained">Contact</Button>
+              <Button href='mailto:thecritswastaken@gmail.com?subject=Contact' variant="contained">Contact</Button>
             </Stack>
           </Container>
         </Box>
